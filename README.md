@@ -1,6 +1,6 @@
 # Vansika Sonthalia
 
-Data Engineer at [Tredence](https://www.tredence.com) · Chennai, India
+Data Engineer at [Tredence](https://www.tredence.com) · Bengaluru, India
 
 I work on **reliability and evaluation of LLM-powered data systems**. My research focuses on how semantic SQL operators fail in production enterprise environments — and how to detect those failures before they reach users.
 
