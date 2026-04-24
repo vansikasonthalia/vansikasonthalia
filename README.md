@@ -1,6 +1,6 @@
 # Vansika Sonthalia
 
-Data Engineer at [Tredence](https://www.tredence.com) · Bengaluru, India
+Data Engineer at [Tredence](https://www.tredence.com) · Chennai, India
 
 I work on **reliability and evaluation of LLM-powered data systems**. My research focuses on how semantic SQL operators fail in production enterprise environments — and how to detect those failures before they reach users.
 
@@ -8,7 +8,7 @@ I work on **reliability and evaluation of LLM-powered data systems**. My researc
 
 **Current project:** [OperatorBench](https://github.com/vansikasonthalia/operatorbench) — characterising structural reliability failure modes in LLM-powered semantic SQL operators across Snowflake Cortex AISQL, DocETL, and LOTUS. Targeting VLDB 2027 EA&B track.
 
-**Published:** [Robust Evaluation of LLM-Generated GraphQL Queries for Web Services](https://ieeexplore.ieee.org/document/your-doi-here) — IEEE ICWS 2025 (CORE A). First author. Introduced RGEval, the first benchmarking pipeline for LLM-generated GraphQL queries.
+**Published:** [Robust Evaluation of LLM-Generated GraphQL Queries for Web Services](https://ieeexplore.ieee.org/document/11169687) — IEEE ICWS 2025 (CORE A). First author. Introduced RGEval, the first benchmarking pipeline for LLM-generated GraphQL queries.
 
 ## Background
 
